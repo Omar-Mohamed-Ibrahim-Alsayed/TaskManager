@@ -1,0 +1,19 @@
+#Head {
+    background-color: lightgray;
+    margin-bottom: 25px;
+    height: 50px;
+    width: 100%;
+    border: black solid 1px;
+    font-size: 25px;
+    font-style: italic;
+    display: table;
+}
+
+
+#row {
+    display: table-row;
+}
+
+#row div {
+    display: table-cell;
+}

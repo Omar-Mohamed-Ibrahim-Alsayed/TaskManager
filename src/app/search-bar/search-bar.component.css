@@ -1,0 +1,12 @@
+#searchBar {
+    width: 100%;
+    background-color: lightgray;
+    text-align: center;
+    padding: 50px;
+}
+
+#searchBar input {
+    width: 900px;
+    padding: 20px;
+    border-radius: 25px;
+}
